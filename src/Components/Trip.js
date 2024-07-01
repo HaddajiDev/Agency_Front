@@ -7,15 +7,15 @@ function Trip() {
     const [textContent, setTextContent] = useState('');
 
     useEffect(() => {
-      fetch(state?.desc)
-          .then(response => {
-              if (!response.ok) {
-                  throw new Error();
-              }
-              return response.text();
-          })
-          .then(data => setTextContent(data))
-          .catch(error => console.error(error));
+      // fetch(state?.desc)
+      //     .then(response => {
+      //         if (!response.ok) {
+      //             throw new Error();
+      //         }
+      //         return response.text();
+      //     })
+      //     .then(data => setTextContent(data))
+      //     .catch(error => console.error(error));
   }, []);
   return (
 	<div className='container' style={{marginTop: 70}}>
