@@ -5,7 +5,7 @@ import { Route, Routes } from 'react-router-dom';
 
 import Home from './Components/Home';
 
-import { useState } from 'react';
+
 import AllTrips from './Components/AllTrips.js';
 import Trip from './Components/Trip.js';
 import Footer from './Components/Footer';
