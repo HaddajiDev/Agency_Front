@@ -18,7 +18,7 @@ function NavBar() {
 				</div>
 				<div>
 					<img src='https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/envelope-24.png' alt=''/>
-					<p>ahmed@gmail.com</p>
+					<p>ahmedhaddajiahmed@gmail.com</p>
 				</div>				
 			</div>									
 			

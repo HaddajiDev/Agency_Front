@@ -37,7 +37,7 @@ function Contact() {
 				<div className='col-lg-3 col-sm-12 contact-fs'>
 					<img src={email} alt=''/>
 					<h3>EMAIL</h3>
-					<p>ahmed@gmail.com
+					<p>ahmedhaddajiahmed@gmail.com
 						
 					</p>
 				</div>
